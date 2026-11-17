@@ -1,0 +1,8 @@
+{
+  "name": "Paper Drift",
+  "description": "A relaxing, minimalist low-poly 3D browser game where you pilot an evolving paper plane through a procedural cityscape and shifting wind currents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
